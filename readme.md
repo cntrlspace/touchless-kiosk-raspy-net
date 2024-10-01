@@ -31,10 +31,13 @@ The project is broken into multiple phases (Cycles), starting from stakeholder i
 
 The repository is organized into several directories, each corresponding to a different part of the project:
 
-- `01-stakeholder-identification/`: Documentation for identifying stakeholders and initial user stories.
-- `02-stakeholder-interviews/`: Interview summaries and refined user stories.
-- `03-requirements/`: Finalized requirements and feature prioritization.
-- `04-roadmap/`: Roadmap with cycles, milestones, sprints, and tasks.
+| Directory                        | Description                                                         |
+|-----------------------------------|---------------------------------------------------------------------|
+| `01-stakeholder-identification/`  | Documentation for identifying stakeholders and initial user stories. |
+| `02-stakeholder-interviews/`      | Interview summaries and refined user stories.                       |
+| `03-requirements/`                | Finalized requirements and feature prioritization.                  |
+| `04-roadmap/`                     | Roadmap with cycles, milestones, sprints, and tasks.                |
+
 
 ## Getting Started
 
