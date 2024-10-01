@@ -10,11 +10,11 @@ The project is broken into multiple phases (Cycles), starting from stakeholder i
 
 | Cycle   | Description                                                                                       | Parts/Details                                                                                  |
 |---------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Cycle 0 | Requirements Analysis and Roadmapping                                                              | - Part 1: Stakeholder Identification <br> - Part 2: Stakeholder Interviews <br> - Part 3: Requirements Document & Feature Prioritization <br> - Part 4: Roadmap Development |
-| Cycle 1 | Minimum Viable Product (MVP)                                                                       | Core features necessary to make the system functional.                                         |
-| Cycle 2 | High-Priority Features                                                                             | Features that enhance user experience and functionality.                                       |
-| Cycle 3 | Medium & Low-Priority Features                                                                     | Additional features that improve the system's performance and capabilities.                    |
-| Cycle 4 | Postmortem and Demo                                                                                | - Conduct a project postmortem to evaluate successes, challenges, and areas for improvement. <br> - Deliver a live demo showcasing the final product and its features.       |
+| 0 | Requirements Analysis and Roadmapping                                                              | - Part 1: Stakeholder Identification <br> - Part 2: Stakeholder Interviews <br> - Part 3: Requirements Document & Feature Prioritization <br> - Part 4: Roadmap Development |
+| 1 | Minimum Viable Product (MVP)                                                                       | Core features necessary to make the system functional.                                         |
+| 2 | High-Priority Features                                                                             | Features that enhance user experience and functionality.                                       |
+| 3 | Medium & Low-Priority Features                                                                     | Additional features that improve the system's performance and capabilities.                    |
+| 4 | Postmortem and Demo                                                                                | - Conduct a project postmortem to evaluate successes, challenges, and areas for improvement. <br> - Deliver a live demo showcasing the final product and its features.       |
 
 
 ## Project Structure
