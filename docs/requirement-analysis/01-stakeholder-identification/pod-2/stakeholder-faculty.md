@@ -3,12 +3,15 @@
     → Faculty members are responsible for teaching courses, guiding students in their academic journey, and managing administrative tasks related to their courses.
  
 **Needs**: 
+
     → Faculty need a system that allows them to update class schedules, recognize student achievements, post job opportunities, track tutoring in their subjects, gather student feedback, and manage office hour appointments easily.
 
 **Pain Points**: 
+
     → Faculty members currently rely on manual processes, such as email, which can cause delays in communication and make it difficult to efficiently recognize student achievements, collect feedback, or track student needs for tutoring.
 
 **Desired Outcomes**: 
+
     → Instantly update class schedules on the kiosk for timely student awareness.
     → Showcase student achievements, including internships and job offers, on the kiosk.
     → Track tutoring metrics to assess teaching effectiveness and make necessary adjustments.
