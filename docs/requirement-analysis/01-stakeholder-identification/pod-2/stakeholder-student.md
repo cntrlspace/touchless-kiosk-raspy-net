@@ -3,12 +3,15 @@
     → Students are the primary learners in the academic environment, responsible for attending classes, completing assignments, and actively engaging with the course material.
  
 **Needs**: 
-    →  Students need a system that helps them showcase their work, access class and professor information, submit feedback, stay updated on scheduling changes, find collaboration opportunities, and track their academic performance.
+
+    → Students need a system that helps them showcase their work, access class and professor information, submit feedback, stay updated on scheduling changes, find collaboration opportunities, and track their academic performance.
 
 **Pain Points**: 
+
     → Students currently face challenges in finding relevant course information, accessing faculty details, managing course schedules, tracking academic performance, and coordinating group work, all of which can cause inefficiencies and confusion.
 
 **Desired Outcomes**: 
+
     → Showcase their projects and coursework to faculty and visitors.
     → Anonymously rate and review tutors to help peers make informed decisions.
     → Access a comprehensive list of courses, class times, and semesters offered.
